@@ -1,0 +1,5 @@
+# Prisma Migrate lockfile v1
+
+20200610231117-init
+20200610232405-add-references
+20200610232942-add-references-for-user
